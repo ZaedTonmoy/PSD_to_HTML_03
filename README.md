@@ -3,4 +3,4 @@ This is a project that I have done for a client. A responsive web-design with on
 
 [P.S: Some of the section have been modified due to client's request and to show my contact info. Pardon me for that]
 
-https://zaedtonmoy.github.io/PSD_to_HTML_03/
+https://zaedtonmoy.github.io/Simple_Project_01/
